@@ -47,10 +47,10 @@ Before you begin, ensure you have the following installed:
 
    If `requirements.txt` is not provided, install the necessary libraries manually:
    ```bash
-   pip install numpy opencv-python dlib librosa
+   pip install numpy opencv-python dlib librosa eos-py
    ```
 
-   For the `eos` library, follow the installation instructions provided in the [eos documentation](https://github.com/patrikhuber/eos). It usually involves cloning the repository and building from source.
+   For the `eos` library, you may need to follow the installation instructions provided in the [eos documentation](https://github.com/patrikhuber/eos). It usually involves cloning the repository and building from source if the python package does not work.
 
 6. **Install dlib with dependencies** if not already successful:
    ```bash
