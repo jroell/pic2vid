@@ -2,4 +2,4 @@ opencv-python
 dlib
 numpy
 librosa
-eos
+eos-py
