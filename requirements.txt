@@ -1,0 +1,5 @@
+cv2
+dlib
+numpy
+librosa
+eos
