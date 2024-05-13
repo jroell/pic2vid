@@ -63,8 +63,7 @@ Download the required model files and place them in your project directory:
 
 - **shape_predictor_68_face_landmarks.dat**: Download from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
 - **sfm_shape_3448.bin**, **expression_blendshapes_3448.bin**, **ibug_to_sfm.txt**, **sfm_3448_edge_topology.json**, and **sfm_model_contours.json**: These can be found in the public [eos share](https://github.com/patrikhuber/eos/wiki/Model-share).
-
-- 
+- You can try downloading them all using wget:
 ```bash
 # Download sfm_shape_3448.bin
 wget -O sfm_shape_3448.bin "https://github.com/patrikhuber/eos/raw/master/share/sfm_shape_3448.bin"
